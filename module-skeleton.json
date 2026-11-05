@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-views-and-query-builder-react-inertia",
+  "capabilityKey": "liberusoftware/module-cms-views-and-query-builder",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-cms-views-and-query-builder-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/cms/nextjs/views-and-query-builder.md",
+  "presentationPlan": "projects/cms/react/views-and-query-builder.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
